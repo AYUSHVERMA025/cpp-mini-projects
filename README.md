@@ -16,31 +16,19 @@
 
 [Join Telegram group](https://t.me/cppwithtricks)
 
-## Projects list (Beginner Level)
+## Projects list
 
-Sr No.   | Project Name
---- | ---
-1  | [Hello World](https://github.com/vishal2376/cpp-mini-projects/tree/master/hello_world) 
-2  | [Simple Calculator](https://github.com/vishal2376/cpp-mini-projects/tree/master/simple_calculator)
-
-
-
-## Projects list (Intermediate Level)
-
-Sr No.   | Project Name
---- | ---
-1 | [Count file words](https://github.com/vishal2376/cpp-mini-projects/tree/master/count_file_words)
-
-## Projects list (Advance Level)
-
-Sr No.   | Project Name
---- | ---
+Sr No.   | Project Name | Level
+--- | -- | --
+1  | [Hello World](https://github.com/vishal2376/cpp-mini-projects/tree/master/hello_world) | Beginner
+2  | [Simple Calculator](https://github.com/vishal2376/cpp-mini-projects/tree/master/simple_calculator) | Beginner
+3 | [Count file words](https://github.com/vishal2376/cpp-mini-projects/tree/master/count_file_words) | Intermediate
 
 ## More projects : 
    
   - [Virtual Assistant](https://github.com/vishal2376/virtual-assistant)
   - [Website Designs](https://github.com/vishal2376/Website-Design)
   
-## Contact :  
+## Contact Us:  
   - [Instagram](https://www.instagram.com/vishal_2376/)
   - [Telegram](https://t.me/vishal2376/)
