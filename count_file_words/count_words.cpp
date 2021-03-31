@@ -14,7 +14,12 @@ int main()
     string word;
     int w_count = 0;
 
-    file.open("demo.txt");
+    char filename[30];
+
+    cout<<"Enter File Name : ";
+    cin>>filename;
+
+    file.open(filename);
     if (file)
         while(!file.eof())
         {
