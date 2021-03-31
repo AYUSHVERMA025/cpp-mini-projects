@@ -20,8 +20,8 @@
 
 Sr No.   | Project Name
 --- | ---
-1.  | [Hello World](https://github.com/vishal2376/cpp-mini-projects/tree/master/hello_world) 
-2.  | [Simple Calculator](https://github.com/vishal2376/cpp-mini-projects/tree/master/simple_calculator)
+1  | [Hello World](https://github.com/vishal2376/cpp-mini-projects/tree/master/hello_world) 
+2  | [Simple Calculator](https://github.com/vishal2376/cpp-mini-projects/tree/master/simple_calculator)
 
 
 
@@ -29,7 +29,7 @@ Sr No.   | Project Name
 
 Sr No.   | Project Name
 --- | ---
-1. | [Count file words](https://github.com/vishal2376/cpp-mini-projects/tree/master/count_file_words)
+1 | [Count file words](https://github.com/vishal2376/cpp-mini-projects/tree/master/count_file_words)
 
 ## Projects list (Advance Level)
 
