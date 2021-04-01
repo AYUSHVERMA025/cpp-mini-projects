@@ -24,8 +24,7 @@ Sr No.   | Project/Program | Level
 2  | [Simple Calculator](https://github.com/vishal2376/cpp-mini-projects/tree/master/simple_calculator) | Beginner
 3  | [Leap year](https://github.com/vishal2376/cpp-mini-projects/tree/master/leap_year) | Beginner
 4  | [Factorial](https://github.com/vishal2376/cpp-mini-projects/tree/master/factorial) | Beginner
-
-  |  |  
+-- | --- | ---
 1 | [Count file words](https://github.com/vishal2376/cpp-mini-projects/tree/master/count_file_words) | Intermediate
 
 ## More projects : 
