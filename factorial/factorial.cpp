@@ -2,19 +2,20 @@
 
 using namespace std;
 
-int factorial(int x)
+long int factorial(long int y)
 {
 
-    if(x == 0)
+    if(y == 0)
         return 1;
 
-    return x * factorial(x-1);
+    return y * factorial(y-1);
 
 }
 
 int main()
 {
-    int n,result;
+    long int n;
+    int result;
 
     cout<<"Enter number : ";
     cin>>n;
