@@ -18,11 +18,15 @@
 
 ## Projects list
 
-Sr No.   | Project Name | Level
---- | -- | --
+Sr No.   | Project/Program | Level
+--- | --- | ---
 1  | [Hello World](https://github.com/vishal2376/cpp-mini-projects/tree/master/hello_world) | Beginner
 2  | [Simple Calculator](https://github.com/vishal2376/cpp-mini-projects/tree/master/simple_calculator) | Beginner
-3 | [Count file words](https://github.com/vishal2376/cpp-mini-projects/tree/master/count_file_words) | Intermediate
+3  | [Leap year](https://github.com/vishal2376/cpp-mini-projects/tree/master/leap_year) | Beginner
+4  | [Factorial](https://github.com/vishal2376/cpp-mini-projects/tree/master/factorial) | Beginner
+
+--- | --- | ---
+1 | [Count file words](https://github.com/vishal2376/cpp-mini-projects/tree/master/count_file_words) | Intermediate
 
 ## More projects : 
    
