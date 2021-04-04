@@ -1,4 +1,4 @@
-# CPP-Mini-Projects
+# C++ Mini Projects
 
 <p align="center">
   <a href="https://github.com/vishal2376/cpp-mini-projects/issues">
@@ -16,7 +16,7 @@
 
 [Join Telegram group](https://t.me/cppwithtricks)
 
-## Projects list
+## List Of Projects/Programs
 
 Sr No.   | Project/Program | Level
 --- | --- | ---
