@@ -1,4 +1,4 @@
-# CPP-Mini-Projects
+# C++ Mini Projects
 
 <p align="center">
   <a href="https://github.com/vishal2376/cpp-mini-projects/issues">
@@ -16,7 +16,7 @@
 
 [Join Telegram group](https://t.me/cppwithtricks)
 
-## Projects list
+## List Of Projects/Programs
 
 Sr No.   | Project/Program | Level
 --- | --- | ---
@@ -26,6 +26,7 @@ Sr No.   | Project/Program | Level
 4  | [Factorial](https://github.com/vishal2376/cpp-mini-projects/tree/master/factorial) | Beginner
 -- | --- | ---
 1 | [Count file words](https://github.com/vishal2376/cpp-mini-projects/tree/master/count_file_words) | Intermediate
+2 | [Random Password Generator](https://github.com/vishal2376/cpp-mini-projects/tree/master/random_password_generator) | Intermediate
 
 ## More projects : 
    
