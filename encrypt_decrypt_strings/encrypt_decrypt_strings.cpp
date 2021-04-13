@@ -36,7 +36,7 @@ int main()
 
 void encrypt_s(string s)
 {
-    system("clear");        // change 'clear' to 'cls' if are using windows
+    system("clear");        // change 'clear' to 'cls' if you are using windows
 
     srand(time(0));                 //to change random value everytime
     int key = rand()%30+1;            //generate random number from 1 to 30
@@ -58,7 +58,7 @@ void encrypt_s(string s)
 
 void decrypt_s(string s)
 {
-    system("clear");        // change 'clear' to 'cls' if are using windows
+    system("clear");        // change 'clear' to 'cls' if are you using windows
 
     int key;
     cout<<"\nEnter key : ";
