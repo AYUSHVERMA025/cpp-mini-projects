@@ -58,7 +58,7 @@ void encrypt_s(string s)
 
 void decrypt_s(string s)
 {
-    system("clear");        // change 'clear' to 'cls' if are you using windows
+    system("clear");        // change 'clear' to 'cls' if you are using windows
 
     int key;
     cout<<"\nEnter key : ";
