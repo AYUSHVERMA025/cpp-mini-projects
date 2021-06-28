@@ -28,6 +28,7 @@ Sr No.   | Project/Program | Level
 1 | [Count file words](https://github.com/vishal2376/cpp-mini-projects/tree/master/count_file_words) | Intermediate
 2 | [Random Password Generator](https://github.com/vishal2376/cpp-mini-projects/tree/master/random_password_generator) | Intermediate
 3 | [Encrypt and Decrypt Strings](https://github.com/vishal2376/cpp-mini-projects/tree/master/encrypt_decrypt_strings) | Intermediate
+4 | [Matrix Calculator](matrix_calculator) 
 
 ## More projects : 
    
