@@ -20,15 +20,15 @@
 
 Sr No.   | Project/Program | Level
 --- | --- | ---
-1  | [Hello World](https://github.com/vishal2376/cpp-mini-projects/tree/master/hello_world) | Beginner
-2  | [Simple Calculator](https://github.com/vishal2376/cpp-mini-projects/tree/master/simple_calculator) | Beginner
-3  | [Leap year](https://github.com/vishal2376/cpp-mini-projects/tree/master/leap_year) | Beginner
-4  | [Factorial](https://github.com/vishal2376/cpp-mini-projects/tree/master/factorial) | Beginner
+1  | [Hello World](hello_world) | Beginner
+2  | [Simple Calculator](simple_calculator) | Beginner
+3  | [Leap year](leap_year) | Beginner
+4  | [Factorial](factorial) | Beginner
 -- | --- | ---
-1 | [Count file words](https://github.com/vishal2376/cpp-mini-projects/tree/master/count_file_words) | Intermediate
-2 | [Random Password Generator](https://github.com/vishal2376/cpp-mini-projects/tree/master/random_password_generator) | Intermediate
-3 | [Encrypt and Decrypt Strings](https://github.com/vishal2376/cpp-mini-projects/tree/master/encrypt_decrypt_strings) | Intermediate
-4 | [Matrix Calculator](matrix_calculator) 
+1 | [Count file words](count_file_words) | Intermediate
+2 | [Random Password Generator](random_password_generator) | Intermediate
+3 | [Encrypt and Decrypt Strings](encrypt_decrypt_strings) | Intermediate
+4 | [Matrix Calculator](matrix_calculator) | Intermediate
 
 ## More projects : 
    
