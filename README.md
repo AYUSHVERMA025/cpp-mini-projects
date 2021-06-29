@@ -18,6 +18,8 @@
 
 ## List Of Projects/Programs
 
+> Levels order: Beginner < Intermediate < Advanced < Expert
+
 Sr No.   | Project/Program | Level
 --- | --- | ---
 1  | [Hello World](hello_world) | Beginner
@@ -29,6 +31,8 @@ Sr No.   | Project/Program | Level
 2 | [Random Password Generator](random_password_generator) | Intermediate
 3 | [Encrypt and Decrypt Strings](encrypt_decrypt_strings) | Intermediate
 4 | [Matrix Calculator](matrix_calculator) | Intermediate
+-- | --- | ---
+1 | [Todo Application](https://github.com/vishal2376/todo) | Advanced
 
 ## More projects : 
    
