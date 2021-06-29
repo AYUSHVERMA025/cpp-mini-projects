@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-    int r, c, a[20][20], b[20][20], sum[20][20], i, j;
+    int r, c, a[20][20], b[20][20], sub[20][20], i, j;
     cout << "Enter number of rows (between 1 and 20): ";
     cin >> r;
     cout << "Enter number of columns (between 1 and 20): ";
@@ -23,17 +23,17 @@ int main() {
            cin >> b[i][j];
        }
     }
-    // Adding Two matrices
+    // Substracting Two matrices
     for(i = 0; i < r; ++i) {
         for(j = 0; j < c; ++j) {
-            sum[i][j] = a[i][j] + b[i][j];
+            sub[i][j] = a[i][j] - b[i][j];
         }    
     }
-    // Displaying the resultant sum matrix.
-    cout << endl << "Sum of two matrix is: " << endl;
+    // Displaying the resultant substr matrix.
+    cout << endl << "Substraction of two matrix is: " << endl;
     for(i = 0; i < r; ++i) {
         for(j = 0; j < c; ++j) {
-            cout << sum[i][j] << "  ";
+            cout << sub[i][j] << "  ";
         }
         cout << endl;
     }
