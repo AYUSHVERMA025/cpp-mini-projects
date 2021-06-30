@@ -9,7 +9,7 @@
   </a>
     <a href="https://github.com/vishal2376/cpp-mini-projects/blob/master/LICENSE">
     <img src="https://img.shields.io/github/license/vishal2376/cpp-mini-projects"/> 
-  </a>https://github.com/vishal2376/cpp-mini-projects/edit/master/README.md
+  </a>
 </p>
 
 ## Connect on Social Media
