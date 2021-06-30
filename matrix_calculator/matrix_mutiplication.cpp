@@ -5,13 +5,13 @@ int main() {
     int a[10][10], b[10][10], mult[10][10], r1, c1, r2, c2;
     cout << "Enter rows and columns for first matrix: ";
     cin >> r1 >> c1;
-    cout << "Enter rows and columns for second matrix: ";
+    cout << "\nEnter rows and columns for second matrix: ";
     cin >> r2 >> c2;
     while (c1!=r2) {
-        cout << "Error! column of first matrix not equal to row of second.";
-        cout << "Enter rows and columns for first matrix: ";
+        cout << "\nError! column of first matrix not equal to row of second.";
+        cout << "\nEnter rows and columns for first matrix: ";
         cin >> r1 >> c1;
-        cout << "Enter rows and columns for second matrix: ";
+        cout << "\nEnter rows and columns for second matrix: ";
         cin >> r2 >> c2;
     }
     cout << endl << "Enter elements of matrix 1:" << endl;
