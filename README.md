@@ -28,7 +28,8 @@ Sr No.   | Project/Program | Author
 6 | [Random Password Generator](random_password_generator) | [Vishal Singh](https://github.com/vishal2376)
 7 | [Encrypt and Decrypt Strings](encrypt_decrypt_strings) | [Vishal Singh](https://github.com/vishal2376)
 8 | [Matrix Calculator](matrix_calculator) | [Ghulam](https://github.com/ghulam2545) 
-9 | [Todo Application](https://github.com/vishal2376/todo) | [Vishal Singh](https://github.com/vishal2376)
+9 | Todo Application [(link)](https://github.com/vishal2376/todo) | [Vishal Singh](https://github.com/vishal2376)
+10 | Json Formatter [(link)](https://github.com/vishal2376/json-formatter) | [Vishal Singh](https://github.com/vishal2376) 
 
 ## More projects : 
    
