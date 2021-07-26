@@ -10,10 +10,13 @@
     <a href="https://github.com/vishal2376/cpp-mini-projects/blob/master/LICENSE">
     <img src="https://img.shields.io/github/license/vishal2376/cpp-mini-projects"/> 
   </a>
+</p>
+
+<p align="center">
 
 [![Telegram Group](https://img.shields.io/endpoint?color=neon&style=flat-square&url=https://tg.sumanjay.workers.dev/cppwithtricks)](https://telegram.dog/cppwithtricks)
-
 </p>
+
 
 ## Want Help?
 
