@@ -12,15 +12,10 @@
   </a>
 </p>
 
-<p align="center">
 
-[![Telegram Group](https://img.shields.io/endpoint?color=neon&style=flat-square&url=https://tg.sumanjay.workers.dev/cppwithtricks)](https://telegram.dog/cppwithtricks)
-</p>
+## Join Telegram Group
 
-
-## Want Help?
-
- - [Join Telegram group](https://t.me/cppwithtricks)
+-  [![Telegram Group](https://img.shields.io/endpoint?color=neon&style=flat-square&url=https://tg.sumanjay.workers.dev/cppwithtricks)](https://telegram.dog/cppwithtricks)
  
 ## List of projects/programs
 
